@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IMFlixV8
+- 👋 Hi, I’m Jared
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning JavaScript more html and css 
 - 💞️ I’m looking to collaborate on web development
