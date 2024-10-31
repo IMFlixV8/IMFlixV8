@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning JavaScript more html and css 
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me I don't any social networks so you can't
+- 📫 How to reach me I don't have any social networks so you can't
 - 😄 Pronouns: He
 - ⚡ Fun fact: I need to practice more because I forgot everything about languages ​​because I stopped practicing
 
